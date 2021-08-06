@@ -21,7 +21,6 @@ chmod +x MaTaDoR
 screen ./MaTaDoR Api
 
 
-@DELTATM
 
 @ArminNy
 
